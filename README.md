@@ -6,3 +6,5 @@ The data is rolled over every six months and each set is cross-trained five time
 The test set predictions and label correlation coefficients are summarized in a table, and the model bagging with the best performing set of rolling data is selected to be recorded by taking the average of the predictions.  
 The recorded forecast values are generated and back-tested according to certain Bollinger band rules to obtain back-test indicators and return curves.  
 
+![image](https://github.com/algo21-220040001/Assignment-3/blob/main/curve.png)
+![image](https://github.com/algo21-220040001/Assignment-3/blob/main/result.png)
