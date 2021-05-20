@@ -1,4 +1,4 @@
-# Assignment-3
+# Assignment3
 
 This assignment follows the logic of multi-factor machine learning stock selection in research reports, and instead uses factors from different varieties of futures as features to build the model.  
 The features are 84 factors of each variety of futures on the daily frequency, labeled with the daily return of each variety, and trained using the xgboost module. 
